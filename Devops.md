@@ -24,8 +24,16 @@ Team structure: An SRE team is composed of site reliability engineers who have a
   Slack
   Docker
   GitHub
-
-- Make sure each group have a git account, if none in the group have Github accounts please make one
-
-- Reports should be in markdown form. If you want to know more about markdown use this (https://www.markdownguide.org/cheat-sheet/)
+  
+  Top beneficial tools for DevOps are:
+- Git
+- Gradle
+- Selenium
+- Jenkins
+- Puppet
+- Chef
+- Docker
+- Kubernetes
+- Ansible
+- eG Enterprise.
 
